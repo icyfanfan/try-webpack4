@@ -11,7 +11,7 @@ npm-debug.log*
 .npm
 
 # build results
-
+/dist
 
 # local configs
 lauch.json 
