@@ -1,0 +1,29 @@
+# logs
+*.log
+.idea
+npm-debug.log*
+
+# dependencies
+/node_modules
+
+# cache files
+.DS_Store
+.npm
+
+# build results
+
+
+# local configs
+lauch.json 
+.vscode
+
+# misc
+.env.local
+.env.development.local
+.env.production.local
+
+# mock data
+/mock/*
+
+
+/package-lock.json
