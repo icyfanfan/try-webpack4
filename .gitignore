@@ -22,8 +22,3 @@ lauch.json
 .env.development.local
 .env.production.local
 
-# mock data
-/mock/*
-
-
-/package-lock.json
